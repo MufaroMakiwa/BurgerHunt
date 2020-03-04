@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="autosizeTextPresets">
+        <item>80sp</item>
+        <item>80sp</item>
+        <item>30sp</item>
+    </array>
+</resources>

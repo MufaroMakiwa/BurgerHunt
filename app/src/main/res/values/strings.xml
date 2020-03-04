@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BurgerHunt</string>
+    <string name="three">4</string>
+    <string name="initial">0</string>
+    <string name="play">There are 3 tiles numbered 1, 2 and 3 and one of them has a burger
+        hidden behind it every time. You have one minute to turn as many tiles as possible by
+        clicking them to find the tiles with hidden burgers.</string>
+    <string name="scoring">Each time you turn a tile with a hidden burger, you earn 9 points,
+        and each time you turn a tile with no burger, you lose 3 points. You final score will
+        be based on how many burgers you would have located.</string>
+    <string name="button_1_label">1</string>
+    <string name="button_2_label">2</string>
+    <string name="button_3_label">3</string>
+    <string name="game_play_score_label">SCORE</string>
+</resources>
