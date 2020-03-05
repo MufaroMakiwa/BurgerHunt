@@ -12,4 +12,5 @@
     <string name="button_2_label">2</string>
     <string name="button_3_label">3</string>
     <string name="game_play_score_label">SCORE</string>
+    <string name="new_game">NEW GAME</string>
 </resources>
